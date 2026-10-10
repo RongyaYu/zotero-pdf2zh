@@ -1,3 +1,19 @@
+
+读英文论文总被术语和长句打断？查词、切窗口、找原文，一来一回很容易丢掉阅读节奏。
+
+可以试试 Zotero + PDF2zh，把论文翻译成中文，同时保留原文对照。
+
+① 整篇翻译：支持纯中文或中英对照
+② 保留排版：尽量保留公式、图表等内容
+③ 多引擎可选：支持 Bing、DeepSeek、智谱等
+④ 手机友好：双栏转单栏，阅读更轻松
+⑤ 字体自定义：可配置字体，例如霞鹜文楷
+支持本地代码或 Docker 部署，再按 README 配置 Zotero 参数即可。
+🔗 github.com/guaguastandup/…
+
+
+
+
 <div align="center">
 
 ![Zotero PDF2zh](./favicon@0.5x.svg)
